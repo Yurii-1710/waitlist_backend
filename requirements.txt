@@ -1,0 +1,4 @@
+Django
+django-ninja
+pydantic
+django-ninja-jwt[crypto]
